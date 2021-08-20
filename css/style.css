@@ -1,0 +1,87 @@
+*{
+    --cor-principal: #FFCA0C;
+    --text-color: #57573D;
+}
+
+.navbar{
+    background-color: var(--cor-principal);
+    padding: 1.2rem 0 1.2rem 0;
+}
+
+.img-logo{
+    width: 200px;
+    margin: 0 1rem;
+}
+
+.nav-style{
+    color: var(--text-color);
+    margin: 0 1rem;
+    font-size: 1.2rem;
+}
+
+.padding{
+    padding: 4rem 2rem;
+}
+
+.banner-info{
+    background-color: var(--cor-principal);
+    color: var(--text-color);
+    font-size: 1.2rem;
+}
+
+.title{
+    font-size: 2.7rem;
+    padding-bottom: 4rem;
+}
+
+.text{
+    font-size: 1.3rem;
+}
+
+.form{
+    background-color:rgb(31, 31, 31);
+    border-radius: 15px;
+    opacity: 0.92;
+    padding: 4rem 0;
+    color: white;
+    margin: 0 2rem;
+}
+
+.form-control{
+    background-color: transparent;
+    border: 0 0 1px 0 solid white;
+    height: 45px;
+    color:white;
+}
+
+a, a:hover, a:active{
+    color:white;
+}
+
+.bt{
+    width: 100%;
+    height: auto;
+    background-color: #BE4233;
+    color: white;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+.card-img{
+    height: 110px;
+    width: 110px;
+}
+
+.container-profissionais{
+    background-color: #343A40;
+}
+
+.container-opiniao{
+    background-color: #1D222C;
+    color: white;
+}
+
+.footer{
+    background-color: #343A40;
+}
