@@ -26,7 +26,7 @@
 }
 
 .padding{
-    padding: 12em 2rem 6rem 2rem;
+    padding: 10rem 1.2rem 4rem 1.2rem;
 }
 
 .banner-info{
@@ -44,13 +44,16 @@
     font-size: 1.3rem;
 }
 
+.small-text{
+    font-size: 0.8rem;
+}
+
 .form{
     background-color:rgb(31, 31, 31);
     border-radius: 15px;
     opacity: 0.92;
-    padding: 4rem 0;
+    padding: 3rem 0;
     color: white;
-    margin: 0 1rem;
 }
 
 .form-control{
@@ -77,18 +80,10 @@ a, a:hover, a:active{
 .card-img{
     height: 110px;
     width: 110px;
-    padding: 0.5rem;
-    justify-content: center;
 }
 
 .container-profissionais{
     background-color: #343A40;
-}
-
-.img-profissional{
-    max-height: 400px;
-    width: auto;
-    border-radius: 25px;
 }
 
 .container-opiniao{
@@ -122,5 +117,10 @@ a, a:hover, a:active{
 
 .subtitle{
     font-size: 2.3rem;
-    padding: 3rem 0 4rem 1rem;
+    padding: 2rem 0.5rem;
+}
+
+.social-media{
+    color: white;
+    font-size: 1.3rem;
 }
